@@ -1,2 +1,2 @@
 # Avaliacao-Senai
-Avaliação do Firjan Senai RJ, no curso Programador Front End.
+Avaliação de HTML, CSS e Bootstrap aplicada pelo Firjan Senai RJ, no curso Programador Front End.
